@@ -37,8 +37,11 @@ The coffee shop chain faces challenges in understanding sales trends, peak hours
   - `Day of Week`: Day of the week when the transaction occurred.
   - `Month`: Numeric representation of the month when the transaction occurred.
 
-**Explore the interactive dashboard and filter based on your needs to gain tailored insights into sales performance. 😊**
-**Link:** [Maven Analytics](https://mavenanalytics.io/project/17801) 
+**Explore the interactive dashboard and filter based on your needs to gain tailored insights into sales performance. 😊**                  
+
+Here is Excel Dashbord View: ![Excel Dashboard](https://github.com/binoy-patra/Coffee-Shop-Revenue-Breakdown-Trends-Peaks-and-Product-Performance/blob/main/Images/Coffee%20Shop%20Sales%20Excel%20Dashboard.png)
+
+Here is Power BI Dashboard Link:** [Power BI Dashboard](Maven Analytics](https://mavenanalytics.io/project/17801) 
 
 ## Key Insights and Findings:
 - **Revenue Trends:** Monthly sales data shows a steady increase from February, with June recording the highest revenue across all locations.
