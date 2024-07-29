@@ -41,7 +41,7 @@ The coffee shop chain faces challenges in understanding sales trends, peak hours
 
 Here is Excel Dashbord View: ![Excel Dashboard](https://github.com/binoy-patra/Coffee-Shop-Revenue-Breakdown-Trends-Peaks-and-Product-Performance/blob/main/Images/Coffee%20Shop%20Sales%20Excel%20Dashboard.png)
 
-Here is Power BI Dashboard Link:** [Power BI Dashboard](Maven Analytics](https://mavenanalytics.io/project/17801) 
+Here is Power BI Dashboard Link: [Power BI Dashboard](Maven Analytics](https://mavenanalytics.io/project/17801) 
 
 ## Key Insights and Findings:
 - **Revenue Trends:** Monthly sales data shows a steady increase from February, with June recording the highest revenue across all locations.
